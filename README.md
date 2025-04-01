@@ -1,4 +1,4 @@
-<img align="left" height="75" src="https://raw.githubusercontent.com/gguibertg/gguibertg/refs/heads/main/images/GoblinDevTips.png"  />
+<img align="left" height="75" src="https://github.com/gguibertg/gguibertg.github.io/blob/main/assets/img/Goblin.png"  />
 
 ###
 
